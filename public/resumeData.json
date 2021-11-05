@@ -1,0 +1,92 @@
+{
+  "main": {
+    "name":"Ashish Shrestha",
+    "description":"I am a software engineer proficient in Database Systems and Full-Stack Development",
+    "image":"A_S_pfp.jpg",
+    "bio":"I am a passionate and motivated software engineer looking to be more involved in the technology industry. I recently graduated from UC Berkeley with a degree in Electrical Engineering and Computer Science, and am starting my career at AWS as a Software Development Engineer for the Redshift team. In addition to programming, I love to game, browse Reddit, and play and watch basketball.",
+    "contactmessage":"Contact me via email!",
+    "email": "ashish_shrestha@berkeley.edu",
+    "phone": "916-934-6308",
+    "github":"https://github.com/Ashish-Shrestha2000/",
+    "project":"https://github.com/Ashish-Shrestha2000/web-portfolio-nice-resume",
+    "resumedownload":"https://drive.google.com/file/d/16xTnb6i3Jh1t7nCgM-VoPXv7FEnVQIlR/view?usp=sharing",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/ashishshrestha13/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Ashish-Shrestha2000/",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Below, I have listed the programming languages that I am most comfortable with",
+    "education":[
+      {
+        "school":"University of California, Berkeley",
+        "degree":"B.S Electrical Engineering and Computer Science",
+        "graduated":"August 2021",
+        "coursework":"At Cal, I took many of the CS and EE courses offered such as the basic data structures and algorithms, as well as other upper division courses like operating systems. Relevant coursework includes, but is not limited to the following: AI, Computer Security, Database Systems, Algorithms, Computer Graphics.",
+        "extracurriculars":"For extracurriculars, I was a Learning Assistant for the Intro to Data Science course. As a Learning Assistant, I lead lab setions and tutored students in areas of the  course they struggled with. In addition, I was a consultant as a part of Product Development at Berkeley where I developed mobile applications in React Native and Flutter for startups."
+      }
+    ],
+    "work":[
+      {
+        "company":"Amazon Web Services",
+        "title":"Software Engineer Intern",
+        "years":"May 2021 - August 2021",
+        "description":"As a part of the Redshift team, I developed software to improve the ease of use for Redshift customers. Specifically, I extended Automatic Table Optimization to tables created through the CTAS command in SQL to optimize the cost and performance."
+      },
+      {
+        "company":"Guaiya Means Love",
+        "title":"Undergraduate Researcher",
+        "years":"January 2021 - May 2021",
+        "description":"In the Guaiya Means Love project, I transitioned the codebase from Python to JavaScript to increase the accessibility of the project across all platforms. In addition, I added new features to increase user interaction and cohesion of the program."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"90%",
+        "color":"#038B2A",
+        "description":""
+      },
+      {
+        "name":"ReactJs",
+        "level":"80%",
+        "color":"#0560BF",
+        "description":""
+      },
+      {
+        "name":"JAVA",
+        "level":"70%",
+        "color":"#D66D0A",
+        "description":""
+      },
+      {
+        "name": "C/C++",
+        "level":"90%",
+        "color":"#860AD6",
+        "description":""
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Gauge.io",
+        "image":"gauge_ss.jpg",
+        "url":"https://gauge.io/"
+      },
+      {
+        "title":"DWR Educational Tool",
+        "image":"dwr.jpeg",
+        "url":"https://github.com/Ashish-Shrestha2000/DWR_Game_College"
+      }
+    ]
+  }
+}
